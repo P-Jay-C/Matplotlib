@@ -1,2 +1,2 @@
 # Matlotplib
-Visulatizations
+Visualizations
