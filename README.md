@@ -1,2 +1,3 @@
 # Matplotlib
-Visualizations
+
+Visualizations with matplotlib
